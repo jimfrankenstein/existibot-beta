@@ -1,0 +1,11 @@
+/* TEAM */
+	AwesomeGuy7000:Brian Reed
+	Site:BrianReed.me
+	From:Minneapolis
+
+/* SITE */
+	Last update:[i exist forever]
+	Language:English
+	Doctype:HTML5
+	Standards: HTML5, CSS3
+	Components: Awesomesauce
